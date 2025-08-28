@@ -34,12 +34,13 @@ export default function Home() {
 
   return (
     <div suppressHydrationWarning>
-      <HeroSection />
+      {/* <HeroSection />
       <AboutSection />
       <Skills />
       <Projects />
       <Education />
-      <ContactSection />
+      <ContactSection /> */}
+      <h1>Test</h1>
     </div>
   );
 }
